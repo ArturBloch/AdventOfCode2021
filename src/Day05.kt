@@ -8,7 +8,7 @@ import kotlin.math.ceil
 
 fun main() {
 
-    // https://adventofcode.com/2021/day/1
+    // https://adventofcode.com/2021/day/5
 
     fun extractMaximum(input: List<String>): Int {
         var MAX = 0;
@@ -53,7 +53,6 @@ fun main() {
                 if (seaMap[y][x] >= 2) counter++
             }
         }
-        println(counter)
         return counter
     }
 

@@ -2,7 +2,7 @@ import java.util.*
 
 fun main() {
 
-    // https://adventofcode.com/2021/day/1
+    // https://adventofcode.com/2021/day/2
 
     fun part1(input: List<String>): Int {
         var x = 0

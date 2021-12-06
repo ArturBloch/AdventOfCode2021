@@ -6,7 +6,7 @@ import kotlin.math.ceil
 
 fun main() {
 
-    // https://adventofcode.com/2021/day/1
+    // https://adventofcode.com/2021/day/4
     lateinit var drawnNumbers: IntArray
     lateinit var boards: MutableList<Array<Array<Int>>>
 

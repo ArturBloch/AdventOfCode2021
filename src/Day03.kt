@@ -5,7 +5,7 @@ import kotlin.math.ceil
 
 fun main() {
 
-    // https://adventofcode.com/2021/day/1
+    // https://adventofcode.com/2021/day/3
 
     fun part1(input: List<String>): Int {
         var onBits = IntArray(input[0].length)
